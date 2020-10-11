@@ -1,0 +1,3 @@
+https://learn.sparkfun.com/tutorials/qwiic-ambient-light-sensor-veml6030-hookup-guide/all
+
+https://www.vishay.com/docs/84366/veml6030.pdf
